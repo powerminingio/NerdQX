@@ -3,4 +3,5 @@
   (lib (name "bitaxe")(type "KiCad")(uri "${KIPRJMOD}/../bitaxe.pretty")(options "")(descr ""))
   (lib (name "qaxe")(type "KiCad")(uri "${KIPRJMOD}/Nerd QX.pretty")(options "")(descr ""))
   (lib (name "Nerd QX")(type "KiCad")(uri "${KIPRJMOD}/Nerd QX.pretty")(options "")(descr ""))
+  (lib (name "kicad_foot")(type "KiCad")(uri "C:/github/kicad_foot")(options "")(descr ""))
 )
