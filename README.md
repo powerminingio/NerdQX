@@ -8,7 +8,7 @@
 ## About
 
 **NerdQX** is a new development based on [NerdQaxe++](https://github.com/shufps/qaxe). NerdQX also has four BM1370 ASIC
-chips, a different PCB geometry, and significantly improved and simplified security mechanisms. 
+chips, a different PCB geometry, and significantly improved and simplified safety mechanisms. 
 
 The NerdQX was developed as the world's first multi-ASIC home miner for overclocking, which also enables extremely 
 efficient mining. Furthermore, the NerdQX can measure the temperature of all four ASICs separately and directly, in 
@@ -84,4 +84,9 @@ The NerdQX project was developed by an international team of enthusiasts.
 The further development of the NerdQX is being actively pursued in order to develop additional ideas and features with
 the goal of creating the perfect multi-ASIC home miner that sets new standards.
 
-* [Changelog](assets/changelog.md) of the project.
+## Table of Content
+
+* [NerdQX original sources](assets/ORIGINAL_SOURCES.md)
+* [NerdQX review on PlebBase](https://plebbase.com/development/all-eyez-nerdqx)
+* [Official firmware](https://github.com/shufps/ESP-Miner-NerdQAxePlus)
+* [Changelog](assets/CHANGELOG.md) of the project.
