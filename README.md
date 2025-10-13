@@ -3,7 +3,7 @@
 
 > The standard and spearhead of current multi-ASIC home miners based on open hardware.
 
-<img src="/assets/images/1754164938.jpg" width="666px">
+<img src="/assets/images/1760234124.jpg" width="666px">
 
 ## About
 
