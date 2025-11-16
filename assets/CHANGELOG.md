@@ -1,5 +1,14 @@
-Revision 1.0
+# Changelog for NerdQX project
+## Revisions
 
+### 1.0.1
+* Capacitors increased to a higher nF rated power
+* Updated schematics with correct cap rating
+* Gerber list re-exported and verified
+* Pick & Place list/configuration exported and verified
+* BOM updated according to current schematics
+
+### 1.0
 * Horizontal PCB geometry and alignment
 * New alignment of voltage regulators
 * XT60 power connection
