@@ -13982,7 +13982,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 82.55 158.75 0)
 			(effects
 				(font
@@ -15355,7 +15355,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 191.77 212.09 0)
 			(effects
 				(font
@@ -16995,7 +16995,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 64.77 30.48 0)
 			(effects
 				(font
@@ -17306,7 +17306,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 88.9 158.75 0)
 			(effects
 				(font
@@ -17648,7 +17648,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 119.38 64.135 90)
 			(effects
 				(font
@@ -18252,7 +18252,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 101.6 158.75 0)
 			(effects
 				(font
@@ -20992,7 +20992,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 137.16 210.82 0)
 			(effects
 				(font
@@ -25859,7 +25859,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 59.055 30.48 0)
 			(effects
 				(font
@@ -26287,7 +26287,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 95.25 158.75 0)
 			(effects
 				(font

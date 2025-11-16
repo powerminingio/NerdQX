@@ -4160,7 +4160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 150.622 95.758 90)
 			(effects
 				(font
@@ -4214,7 +4214,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "399-C0805C104K5RACTUCT-ND"
+		(property "OrderNr" "399-C0805C224K5RACTUTR-ND"
 			(at 146.685 97.155 0)
 			(effects
 				(font
@@ -5844,7 +5844,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "220nF"
 			(at 104.775 121.2849 0)
 			(effects
 				(font
@@ -5898,7 +5898,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "399-C0805C104K5RACTUCT-ND"
+		(property "OrderNr" "399-C0805C224K5RACTUTR-ND"
 			(at 108.585 120.015 0)
 			(effects
 				(font
