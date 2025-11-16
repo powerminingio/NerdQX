@@ -40,6 +40,8 @@ Many small and large improvements make the NerdQX the new standard for multi-ASI
   a concept that has previously only been used in industrial mining rigs. This measure not only extends the service 
   life of the components, but also allows safe overclocking without the risk of thermal instability in the power range 
   for the first time.
+  
+> **NOTE:** This heatsink is available from [Ix Tech](https://ixtech.xyz) not DigiKey.
 
 ### XT60 power connector
 > Industry standard: extremely low contact resistance, high current carrying capacity, and reliable contact - even 
