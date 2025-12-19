@@ -7,6 +7,8 @@
 
 ## About
 
+**Powermining fork** changes are - removed USA flag, added Powermining logo
+
 **NerdQX** is a new development based on [NerdQaxe++](https://github.com/shufps/qaxe). NerdQX also has four BM1370 ASIC
 chips, a different PCB geometry, and significantly improved and simplified safety mechanisms. 
 
@@ -20,7 +22,7 @@ further development on an open source basis.
 
 Many small and large improvements make the NerdQX the new standard for multi-ASIC home miners based on open hardware.
 
-<img src="/assets/images/1754164993.jpg" width="666px">
+<img src="/assets/images/1754164993.jpg" width="668px">
 
 ## Highlights
 
