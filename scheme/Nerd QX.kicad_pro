@@ -73,10 +73,6 @@
           ""
         ],
         [
-          "silk_overlap|68442295|47486904|5784e9ac-ddd8-4c7a-a9e3-c80d4680b7b7|fa546116-ed41-4cff-a6d8-c5fce915f419",
-          ""
-        ],
-        [
           "silk_overlap|71138748|56730000|0d605ed4-52be-4056-b639-ec931fcdff98|23348174-0865-4a5a-a23d-9e077bb5d2d4",
           ""
         ],
@@ -580,7 +576,7 @@
       "plot": "../gerbers/",
       "pos_files": "../gerbers/",
       "specctra_dsn": "",
-      "step": "../case/NerdQX.step",
+      "step": "../assets/3d model/NerdQX.step",
       "svg": "",
       "vrml": "../case/nerdqaxe++.wrl"
     },
